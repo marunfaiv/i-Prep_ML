@@ -1,0 +1,3 @@
+[submodule "model/all-MiniLM-L6-v2"]
+	path = model/all-MiniLM-L6-v2
+	url = https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
